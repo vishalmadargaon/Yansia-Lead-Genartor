@@ -1,0 +1,6 @@
+{
+  "name": "Yanisa AI-SDR | Lead Discovery Engine",
+  "description": "Zero-cost, policy-gated AI Lead Discovery engine with OpenStreetMap Overpass harvesting, live domain crawling, 5-service Yanisa fit scoring, and one-click CRM import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

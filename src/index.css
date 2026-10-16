@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  html, body, button, input, select, textarea {
+    font-family: 'Lora', Georgia, serif;
+  }
+  
+  .font-mono, code, pre, .tabular-nums {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Custom scrollbars for high-density tables - crisp white & blue */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f8fafc;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Gemini glowing animated border for search box */
+@keyframes geminiGlow {
+  0% {
+    box-shadow: 0 0 0 1px rgba(37, 99, 235, 0.25), 0 4px 20px -2px rgba(37, 99, 235, 0.15);
+  }
+  50% {
+    box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.5), 0 8px 30px 2px rgba(37, 99, 235, 0.25);
+  }
+  100% {
+    box-shadow: 0 0 0 1px rgba(37, 99, 235, 0.25), 0 4px 20px -2px rgba(37, 99, 235, 0.15);
+  }
+}
+
+.gemini-glow-box {
+  animation: geminiGlow 3s ease-in-out infinite;
+}
+
+.gemini-glow-focus:focus-within {
+  animation: geminiGlow 2.5s ease-in-out infinite;
+}

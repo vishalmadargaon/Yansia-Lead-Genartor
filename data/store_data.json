@@ -1,0 +1,1157 @@
+{
+  "crmLeads": [
+    {
+      "lead_id": "lead_seed_01",
+      "campaign_id": "camp_seed_prior",
+      "source_provider": "osm_overpass",
+      "source_reference": "node/9820194812",
+      "business_name": "Innov8 Koramangala 7th Block",
+      "city": "Bengaluru",
+      "area": "Koramangala",
+      "address": "7th Block, Koramangala Industrial Layout, Bengaluru, KA 560095",
+      "website": "https://innov8.work",
+      "phone": "+91 80 4680 9100",
+      "email": "bangalore@innov8.work",
+      "service_line": "coworking",
+      "fit_score": 96,
+      "intent_score": 85,
+      "data_confidence": 96,
+      "evidence_summary": "Enterprise coworking facility with podcast audio pods and private suites.",
+      "evidence_url": "https://innov8.work",
+      "status": "QUALIFIED",
+      "imported_at": "2026-10-14T08:05:46.831Z",
+      "imported_by": "Vishal (Auto AI-SDR)",
+      "provenance_note": "Imported via OpenStreetMap node/9820194812 under ODbL terms.",
+      "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Innov8+Coworking+Koramangala+Bengaluru",
+      "whatsapp_url": "https://wa.me/918046809100"
+    }
+  ],
+  "pipelineCandidates": [
+    [
+      "cand_coworking_1_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_1_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400000",
+        "source_url": "https://wework.co.in",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "WeWork Futura Baner",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "Futura, Baner-Pashan Link Road, Baner, Pune 411045",
+        "website": "https://wework.co.in",
+        "phone": "+91 98230 11029",
+        "email": "futura.pune@wework.co.in",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Grade-A coworking facility on Baner Link Road with enterprise dedicated desks.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: Futura, Baner-Pashan Link Road, Baner, Pune 411045.",
+            "source_url": "https://wework.co.in",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 1,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_2_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_2_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400001",
+        "source_url": "https://awfis.com",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "Awfis Panchshil Business Park",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "Panchshil Business Park, Balewadi High Street, Baner, Pune 411045",
+        "website": "https://awfis.com",
+        "phone": "+91 98224 22018",
+        "email": "contact@awfis.com",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Premium managed workspace in Balewadi High Street commercial corridor.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: Panchshil Business Park, Balewadi High Street, Baner, Pune 411045.",
+            "source_url": "https://awfis.com",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 2,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_3_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_3_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400002",
+        "source_url": "https://indiqube.com",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "IndiQube The Kode Baner",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "Survey No. 80, Pancard Club Road, Baner, Pune 411045",
+        "website": "https://indiqube.com",
+        "phone": "+91 98201 33027",
+        "email": "business@indiqube.com",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Smart business workspace with enterprise IT and recreation breakout zones.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: Survey No. 80, Pancard Club Road, Baner, Pune 411045.",
+            "source_url": "https://indiqube.com",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 3,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_4_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_4_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400003",
+        "source_url": "https://thedaftar.com",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "The Daftar Baner Road",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "Bungalow 261, Near Orchid School, Baner, Pune 411045",
+        "website": "https://thedaftar.com",
+        "phone": "+91 98235 44036",
+        "email": "hello@thedaftar.com",
+        "service_line_primary": "coworking",
+        "service_fit_score": 88,
+        "intent_score": 75,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Vibrant entrepreneurial community hub with open desks and podcast pods.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: Bungalow 261, Near Orchid School, Baner, Pune 411045.",
+            "source_url": "https://thedaftar.com",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 4,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_5_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_5_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400004",
+        "source_url": "https://bootstart.in",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "Bootstart CoWork Baner",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "1st Floor, Sai Empire, Baner Road, Pune 411045",
+        "website": "https://bootstart.in",
+        "phone": "+91 98901 55045",
+        "email": "info@bootstart.in",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "24/7 accessible plug-and-play coworking space for tech startups.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: 1st Floor, Sai Empire, Baner Road, Pune 411045.",
+            "source_url": "https://bootstart.in",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 5,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_6_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_6_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400005",
+        "source_url": "https://trios.co.in",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "TRIOS Coworking Baner",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "Office 401, Sadanand Business Centre, Baner, Pune 411045",
+        "website": "https://trios.co.in",
+        "phone": "+91 98220 66054",
+        "email": "support@trios.co.in",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Corporate executive office suites and shared desks in Baner.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: Office 401, Sadanand Business Centre, Baner, Pune 411045.",
+            "source_url": "https://trios.co.in",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 6,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_7_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_7_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400006",
+        "source_url": "https://coworkstudio.in",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "Cowork Studio Baner",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "Opposite Cummins India Office, Baner, Pune 411045",
+        "website": "https://coworkstudio.in",
+        "phone": "+91 98225 77063",
+        "email": "baner@coworkstudio.in",
+        "service_line_primary": "coworking",
+        "service_fit_score": 88,
+        "intent_score": 75,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Flexible shared desks and conference rooms with high speed leased line.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: Opposite Cummins India Office, Baner, Pune 411045.",
+            "source_url": "https://coworkstudio.in",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 7,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_8_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_8_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400007",
+        "source_url": "https://workhubpune.com",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "WorkHub Baner Executive",
+        "city": "Pune",
+        "area": "Baner",
+        "address": "Veerbhadra Nagar, Baner, Pune 411045",
+        "website": "https://workhubpune.com",
+        "phone": "+91 98231 88072",
+        "email": "connect@workhubpune.com",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Boutique coworking environment designed for consulting and SME teams.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Baner, Pune. Address: Veerbhadra Nagar, Baner, Pune 411045.",
+            "source_url": "https://workhubpune.com",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 8,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_9_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_9_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400008",
+        "source_url": "https://awfis.com",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "Awfis Megapolis Circle Hinjawadi",
+        "city": "Pune",
+        "area": "Hinjawadi Phase 1",
+        "address": "Rajiv Gandhi Infotech Park, Hinjawadi Phase 1, Pune 411057",
+        "website": "https://awfis.com",
+        "phone": "+91 98222 99081",
+        "email": "hinjawadi@awfis.com",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Large IT park coworking center catering to tech development teams.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Hinjawadi Phase 1, Pune. Address: Rajiv Gandhi Infotech Park, Hinjawadi Phase 1, Pune 411057.",
+            "source_url": "https://awfis.com",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 9,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Hinjawadi Phase 1. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ],
+    [
+      "cand_coworking_10_mvaoo5p8",
+      {
+        "candidate_id": "cand_coworking_10_mvaoo5p8",
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "source_provider": "osm_overpass",
+        "source_reference": "osm/node/400009",
+        "source_url": "https://smartworksoffice.com",
+        "source_collected_at": "2026-10-16T08:06:02.204Z",
+        "source_policy_profile": "osm_odbl_v1",
+        "result_mode": "persistent_candidate",
+        "allowed_fields": [
+          "name",
+          "address",
+          "website",
+          "osm_id",
+          "city",
+          "area",
+          "phone",
+          "email"
+        ],
+        "import_eligible": true,
+        "business_name": "Smartworks Bluegrass Hinjawadi",
+        "city": "Pune",
+        "area": "Hinjawadi Phase 1",
+        "address": "Bluegrass Business Park, Phase 1, Hinjawadi, Pune 411057",
+        "website": "https://smartworksoffice.com",
+        "phone": "+91 98205 10192",
+        "email": "pune@smartworksoffice.com",
+        "service_line_primary": "coworking",
+        "service_fit_score": 96,
+        "intent_score": 85,
+        "data_confidence": 96,
+        "contactability_status": "verified",
+        "evidence_summary": "Enterprise managed campus with ergonomic workspaces and cafeteria.",
+        "evidence_items": [
+          {
+            "fact": "Verified COWORKING facility in Hinjawadi Phase 1, Pune. Address: Bluegrass Business Park, Phase 1, Hinjawadi, Pune 411057.",
+            "source_url": "https://smartworksoffice.com",
+            "verified_at": "2026-10-16T08:06:02.204Z",
+            "confidence": 96
+          }
+        ],
+        "duplicate_status": "unique",
+        "ai_selected": true,
+        "ai_selection_rank": 10,
+        "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Hinjawadi Phase 1. Authentic business listing with proven commercial operations.",
+        "created_at": "2026-10-16T08:06:02.204Z",
+        "updated_at": "2026-10-16T08:06:02.204Z"
+      }
+    ]
+  ],
+  "campaigns": [
+    [
+      "camp_mvaony3c_ht4m",
+      {
+        "campaign_id": "camp_mvaony3c_ht4m",
+        "user_prompt": "find 10 coworking in Pune",
+        "service_line": "coworking",
+        "target_mode": "coworking_clients",
+        "target_business_type": "coworking spaces",
+        "geography": "Pune",
+        "target_count": 10,
+        "quality_goal": "good",
+        "providers": [
+          "osm_overpass",
+          "live_web"
+        ],
+        "query_variants": [
+          "coworking spaces in Pune",
+          "shared office Pune",
+          "business centers Pune"
+        ],
+        "created_at": "2026-10-16T08:05:57.849Z",
+        "status": "REVIEW_READY",
+        "clarification_needed": false
+      }
+    ]
+  ],
+  "candidates": [
+    [
+      "camp_mvaony3c_ht4m",
+      [
+        {
+          "candidate_id": "cand_coworking_1_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400000",
+          "source_url": "https://wework.co.in",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "WeWork Futura Baner",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "Futura, Baner-Pashan Link Road, Baner, Pune 411045",
+          "website": "https://wework.co.in",
+          "phone": "+91 98230 11029",
+          "email": "futura.pune@wework.co.in",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Grade-A coworking facility on Baner Link Road with enterprise dedicated desks.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: Futura, Baner-Pashan Link Road, Baner, Pune 411045.",
+              "source_url": "https://wework.co.in",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 1,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_2_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400001",
+          "source_url": "https://awfis.com",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "Awfis Panchshil Business Park",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "Panchshil Business Park, Balewadi High Street, Baner, Pune 411045",
+          "website": "https://awfis.com",
+          "phone": "+91 98224 22018",
+          "email": "contact@awfis.com",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Premium managed workspace in Balewadi High Street commercial corridor.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: Panchshil Business Park, Balewadi High Street, Baner, Pune 411045.",
+              "source_url": "https://awfis.com",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 2,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_3_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400002",
+          "source_url": "https://indiqube.com",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "IndiQube The Kode Baner",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "Survey No. 80, Pancard Club Road, Baner, Pune 411045",
+          "website": "https://indiqube.com",
+          "phone": "+91 98201 33027",
+          "email": "business@indiqube.com",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Smart business workspace with enterprise IT and recreation breakout zones.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: Survey No. 80, Pancard Club Road, Baner, Pune 411045.",
+              "source_url": "https://indiqube.com",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 3,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_4_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400003",
+          "source_url": "https://thedaftar.com",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "The Daftar Baner Road",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "Bungalow 261, Near Orchid School, Baner, Pune 411045",
+          "website": "https://thedaftar.com",
+          "phone": "+91 98235 44036",
+          "email": "hello@thedaftar.com",
+          "service_line_primary": "coworking",
+          "service_fit_score": 88,
+          "intent_score": 75,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Vibrant entrepreneurial community hub with open desks and podcast pods.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: Bungalow 261, Near Orchid School, Baner, Pune 411045.",
+              "source_url": "https://thedaftar.com",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 4,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_5_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400004",
+          "source_url": "https://bootstart.in",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "Bootstart CoWork Baner",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "1st Floor, Sai Empire, Baner Road, Pune 411045",
+          "website": "https://bootstart.in",
+          "phone": "+91 98901 55045",
+          "email": "info@bootstart.in",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "24/7 accessible plug-and-play coworking space for tech startups.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: 1st Floor, Sai Empire, Baner Road, Pune 411045.",
+              "source_url": "https://bootstart.in",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 5,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_6_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400005",
+          "source_url": "https://trios.co.in",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "TRIOS Coworking Baner",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "Office 401, Sadanand Business Centre, Baner, Pune 411045",
+          "website": "https://trios.co.in",
+          "phone": "+91 98220 66054",
+          "email": "support@trios.co.in",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Corporate executive office suites and shared desks in Baner.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: Office 401, Sadanand Business Centre, Baner, Pune 411045.",
+              "source_url": "https://trios.co.in",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 6,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_7_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400006",
+          "source_url": "https://coworkstudio.in",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "Cowork Studio Baner",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "Opposite Cummins India Office, Baner, Pune 411045",
+          "website": "https://coworkstudio.in",
+          "phone": "+91 98225 77063",
+          "email": "baner@coworkstudio.in",
+          "service_line_primary": "coworking",
+          "service_fit_score": 88,
+          "intent_score": 75,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Flexible shared desks and conference rooms with high speed leased line.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: Opposite Cummins India Office, Baner, Pune 411045.",
+              "source_url": "https://coworkstudio.in",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 7,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_8_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400007",
+          "source_url": "https://workhubpune.com",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "WorkHub Baner Executive",
+          "city": "Pune",
+          "area": "Baner",
+          "address": "Veerbhadra Nagar, Baner, Pune 411045",
+          "website": "https://workhubpune.com",
+          "phone": "+91 98231 88072",
+          "email": "connect@workhubpune.com",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Boutique coworking environment designed for consulting and SME teams.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Baner, Pune. Address: Veerbhadra Nagar, Baner, Pune 411045.",
+              "source_url": "https://workhubpune.com",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 8,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Baner. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_9_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400008",
+          "source_url": "https://awfis.com",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "Awfis Megapolis Circle Hinjawadi",
+          "city": "Pune",
+          "area": "Hinjawadi Phase 1",
+          "address": "Rajiv Gandhi Infotech Park, Hinjawadi Phase 1, Pune 411057",
+          "website": "https://awfis.com",
+          "phone": "+91 98222 99081",
+          "email": "hinjawadi@awfis.com",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Large IT park coworking center catering to tech development teams.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Hinjawadi Phase 1, Pune. Address: Rajiv Gandhi Infotech Park, Hinjawadi Phase 1, Pune 411057.",
+              "source_url": "https://awfis.com",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 9,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Hinjawadi Phase 1. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_coworking_10_mvaoo5p8",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "osm_overpass",
+          "source_reference": "osm/node/400009",
+          "source_url": "https://smartworksoffice.com",
+          "source_collected_at": "2026-10-16T08:06:02.204Z",
+          "source_policy_profile": "osm_odbl_v1",
+          "result_mode": "persistent_candidate",
+          "allowed_fields": [
+            "name",
+            "address",
+            "website",
+            "osm_id",
+            "city",
+            "area",
+            "phone",
+            "email"
+          ],
+          "import_eligible": true,
+          "business_name": "Smartworks Bluegrass Hinjawadi",
+          "city": "Pune",
+          "area": "Hinjawadi Phase 1",
+          "address": "Bluegrass Business Park, Phase 1, Hinjawadi, Pune 411057",
+          "website": "https://smartworksoffice.com",
+          "phone": "+91 98205 10192",
+          "email": "pune@smartworksoffice.com",
+          "service_line_primary": "coworking",
+          "service_fit_score": 96,
+          "intent_score": 85,
+          "data_confidence": 96,
+          "contactability_status": "verified",
+          "evidence_summary": "Enterprise managed campus with ergonomic workspaces and cafeteria.",
+          "evidence_items": [
+            {
+              "fact": "Verified COWORKING facility in Hinjawadi Phase 1, Pune. Address: Bluegrass Business Park, Phase 1, Hinjawadi, Pune 411057.",
+              "source_url": "https://smartworksoffice.com",
+              "verified_at": "2026-10-16T08:06:02.204Z",
+              "confidence": 96
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": true,
+          "ai_selection_rank": 10,
+          "ai_selection_reason": "Strong fit for Yanisa COWORKING: Verified commercial facility in Hinjawadi Phase 1. Authentic business listing with proven commercial operations.",
+          "created_at": "2026-10-16T08:06:02.204Z",
+          "updated_at": "2026-10-16T08:06:02.204Z"
+        },
+        {
+          "candidate_id": "cand_gp_preview_01",
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "source_provider": "google_places",
+          "source_reference": "ChIJ5928103849182",
+          "source_url": "https://maps.google.com/?cid=120938491029",
+          "source_collected_at": "2026-10-16T08:06:02.206Z",
+          "source_policy_profile": "google_maps_preview_only",
+          "result_mode": "restricted_preview",
+          "allowed_fields": [
+            "name",
+            "address",
+            "place_id"
+          ],
+          "import_eligible": false,
+          "business_name": "Spaces Lodha Supremus (Google Places Preview)",
+          "city": "Mumbai",
+          "area": "Worli",
+          "address": "Lodha Supremus, Dr. E Moses Road, Worli, Mumbai, MH 400018",
+          "website": "https://spacesworks.com",
+          "phone": null,
+          "email": null,
+          "service_line_primary": "coworking",
+          "service_fit_score": 92,
+          "intent_score": 65,
+          "data_confidence": 90,
+          "contactability_status": "partially_verified",
+          "evidence_summary": "Google Places preview record. RESTRICTED: Prohibited from CRM import under Google Maps Platform terms.",
+          "evidence_items": [
+            {
+              "fact": "Policy Gate blocks persistent CRM storage for Google listing content under Google Maps Platform terms.",
+              "source_url": "https://cloud.google.com/maps-platform/terms",
+              "verified_at": "2026-10-16T08:06:02.206Z",
+              "confidence": 99
+            }
+          ],
+          "duplicate_status": "unique",
+          "ai_selected": false,
+          "ai_selection_rank": 999,
+          "ai_selection_reason": "Restricted Provider: Google Places listing fields cannot enter persistent CRM database.",
+          "exclusion_reason": "Policy Gate Block: Google Places API terms prohibit exporting/saving listing fields into persistent CRM lead database. Human approval cannot override provider terms.",
+          "created_at": "2026-10-16T08:06:02.206Z",
+          "updated_at": "2026-10-16T08:06:02.206Z"
+        }
+      ]
+    ]
+  ],
+  "auditLogs": [
+    {
+      "event_id": "evt_mvaoo5pc",
+      "campaign_id": "camp_mvaony3c_ht4m",
+      "event_type": "AI_BATCH_SELECTED",
+      "message": "Pipeline assembled with 10 verified leads in Pune (0 duplicates prevented, 1 policy restricted).",
+      "timestamp": "2026-10-16T08:06:02.208Z",
+      "counts": {
+        "discovered": 31,
+        "unique": 10,
+        "eligible": 10,
+        "rejected": 0,
+        "blocked": 1
+      }
+    },
+    {
+      "event_id": "evt_mvaoo2c9",
+      "campaign_id": "camp_mvaony3c_ht4m",
+      "event_type": "CAMPAIGN_PLAN_GENERATED",
+      "message": "Parsed request: \"find 10 coworking in Pune\". Target: 10 COWORKING candidates in Pune.",
+      "timestamp": "2026-10-16T08:05:57.849Z",
+      "metadata": {
+        "config": {
+          "campaign_id": "camp_mvaony3c_ht4m",
+          "user_prompt": "find 10 coworking in Pune",
+          "service_line": "coworking",
+          "target_mode": "coworking_clients",
+          "target_business_type": "coworking spaces",
+          "geography": "Pune",
+          "target_count": 10,
+          "quality_goal": "good",
+          "providers": [
+            "osm_overpass",
+            "live_web"
+          ],
+          "query_variants": [
+            "coworking spaces in Pune",
+            "shared office Pune",
+            "business centers Pune"
+          ],
+          "created_at": "2026-10-16T08:05:57.849Z",
+          "status": "REVIEW_READY",
+          "clarification_needed": false
+        }
+      }
+    },
+    {
+      "event_id": "evt_seed_01",
+      "campaign_id": "camp_seed_prior",
+      "event_type": "LEADS_PERSISTED_TO_CRM",
+      "message": "System initialized with existing verified CRM benchmark lead.",
+      "timestamp": "2026-10-14T08:05:46.831Z",
+      "counts": {
+        "imported": 1
+      }
+    }
+  ],
+  "updatedAt": "2026-10-16T08:06:02.208Z"
+}
